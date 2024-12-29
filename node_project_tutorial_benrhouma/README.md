@@ -78,9 +78,10 @@ GET /api/tutorials/status/{status} - Filter tutorials by status.
 API documentation is available via Swagger at: http://localhost:8080/swagger-ui/index.html
 
 Frontend Screenshots
-1. Tutorials List Page
+1. ![image](https://github.com/user-attachments/assets/774d68b0-a0cc-4798-87bc-fec5c3bd39f2)
+2. ![image](https://github.com/user-attachments/assets/0c067100-431f-4e7d-95b2-bd35f8dea6fc)
+3. ![image](https://github.com/user-attachments/assets/b496b307-c90a-4158-b64d-205ec32ff05a)
 
-2. Add Tutorial Page
 
 
 Setup Instructions
