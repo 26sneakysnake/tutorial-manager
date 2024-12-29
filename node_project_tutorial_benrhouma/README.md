@@ -1,7 +1,7 @@
 Tutorial Manager - Web Project
 
 Repository Information
-GitHub Repository URL: https://github.com/your-github-repo
+GitHub Repository URL: [https://github.com/26sneakysnake/tutorial-manager]
 
 Team Members:
 Name: Seifeddine BEN RHOUMA | GitHub: @26sneakysnake
@@ -37,7 +37,7 @@ Pre-loaded mock data for easy demonstration.
 
 
 Work Contributions
-Seifeddine BEN RHOUMA :
+Seifeddine BEN RHOUMA (100%) :
 Backend development: Implemented the Spring Boot API and Swagger documentation.
 Database design and integration with PostgreSQL.
 Frontend development: Created Angular components for tutorial management and added advanced features like ag-Grid.
@@ -50,7 +50,6 @@ Project Structure
 The repository is organized into two main directories:
 
 Frontend:
-
 Folder: frontend
 Developed using Angular.
 Command to run:
@@ -58,8 +57,8 @@ cd frontend
 npm install
 ng serve
 
-Backend:
 
+Backend:
 Folder: backend
 Developed using Spring Boot.
 Command to run:
@@ -116,8 +115,8 @@ Clone the repository:
 
 
 
-git clone https://github.com/your-github-repo.git
-cd your-github-repo
+git clone [https://github.com/26sneakysnake/tutorial-manager.git]
+cd node_project_tutorial_benrhouma
 
 Start the backend:
 
