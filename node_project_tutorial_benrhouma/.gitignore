@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+dist/
+
+# Spring Boot
+target/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
